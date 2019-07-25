@@ -1,0 +1,83 @@
+#header{
+    background-image: url("../img/PIC.jng/h_img.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    color:white;
+  padding: 300px 200px;
+}
+#header,p{
+    font-size: 10px;
+}
+#header,h1{
+font-size: 100px;
+}
+#aboutus{
+    text-align: center;
+   
+}
+#aboutus,h2{
+    font-weight: bolder;
+    padding-top: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#aboutus,p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+}
+#services{
+    background-image: url("../img/LIC.png/s_image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 100px;
+    text-align: center;
+    color: white;
+}
+#services,p{
+    font-size:20px;
+}
+#whatwedo{
+    text-align: center;
+    padding-top:3%;
+}
+.main-project{
+    display:flex;
+    justify-content:space-between;
+    flex-direction:row;
+    margin-right:10%;
+    margin-left:10%;
+    padding-top:5%;
+}
+#portfolio{
+    text-align: center;
+    padding-top:5%;
+}
+.change{
+
+  /* width:30px;
+   */
+  /* padding-right: 10px; */
+
+}
+.row{
+    padding:10px;
+  
+    margin-right:5%;
+    margin-left:2%;
+}
+#contactus{
+    background-image: url("../img/c_image.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 100px 100px;
+    text-align:center;
+    color:white;
+}
+.col-md-6{
+    size:80px;
+}
