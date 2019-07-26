@@ -17,7 +17,7 @@ font-size: 90px;
 }
 #aboutus{
     text-align: center;
-   
+  
 }
 #aboutus,h2{
     font-weight: bolder;
@@ -27,6 +27,7 @@ font-size: 90px;
 #aboutus,p{
     font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: normal;
+    font-size:20px;
 }
 #services{
     background-image: url("../img/LIC.png/s_image.jpg");
