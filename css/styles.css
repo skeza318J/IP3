@@ -1,19 +1,19 @@
 #header{
     background-image: url("../img/PIC.jng/h_img.jpg");
     background-size: cover;
-    background-position: center;
+  
     background-repeat: no-repeat;
     height: 100%;
-    width: 100%;
+   
     text-align: center;
     color:white;
-  padding: 300px 200px;
+padding:100px 90px;
 }
 #header,p{
     font-size: 10px;
 }
 #header,h1{
-font-size: 100px;
+font-size: 90px;
 }
 #aboutus{
     text-align: center;
@@ -56,13 +56,13 @@ font-size: 100px;
     text-align: center;
     padding-top:5%;
 }
-.change{
+/* .change{
 
   /* width:30px;
    */
   /* padding-right: 10px; */
 
-}
+} */
 .row{
     padding:10px;
   
@@ -84,4 +84,10 @@ font-size: 100px;
 #social{
     text-align: center;
     font-size:10px;
+}
+.paragraph-showing, .p-showing, .p3-showing{
+    display: none;
+}
+form{
+    margin-left:200px;
 }
