@@ -22,7 +22,7 @@ font-size: 90px;
 #aboutus,h2{
     font-weight: bolder;
     padding-top: 1%;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 #aboutus,p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
