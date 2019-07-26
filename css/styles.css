@@ -55,6 +55,7 @@ font-size: 90px;
 #portfolio{
     text-align: center;
     padding-top:5%;
+    margin-bottom:5%;
 }
 /* .change{
 
@@ -90,4 +91,199 @@ font-size: 90px;
 }
 form{
     margin-left:200px;
+}
+.hov{
+    top:35%;
+    left:45%;
+    transform:translate(-50%,-50%);
+    font-size:28px;
+    text-align:center;
+    position:absolute;
+    width:60%;
+    height:70%;
+}
+.hov >p{
+    position:absolute;
+    transform:translate(-50%);
+    color:white;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top:55%;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-size:28px;
+    left:45%;
+background-color: black;
+}
+.hov1{
+    top:35%;
+    left:45%;
+    transform:translate(-50%,-50%);
+    font-size:28px;
+    text-align:center;
+    position:absolute;
+    width:60%;
+    height:70%;
+}
+.hov1 >p{
+    position:absolute;
+    transform:translate(-50%);
+    color:white;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top:55%;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-size:28px;
+    left:45%;
+background-color: black;
+}
+.hov2{
+    top:35%;
+    left:45%;
+    transform:translate(-50%,-50%);
+    font-size:28px;
+    text-align:center;
+    position:absolute;
+    width:60%;
+    height:70%;
+}
+.hov2 >p{
+    position:absolute;
+    transform:translate(-50%);
+    color:white;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top:55%;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-size:28px;
+    left:45%;
+background-color: black;
+}
+.hov3{
+    top:35%;
+    left:45%;
+    transform:translate(-50%,-50%);
+    font-size:28px;
+    text-align:center;
+    position:absolute;
+    width:60%;
+    height:70%;
+}
+.hov3 >p{
+    position:absolute;
+    transform:translate(-50%);
+    color:white;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top:55%;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-size:28px;
+    left:45%;
+background-color:black;
+}
+.hov4{
+    top:35%;
+    left:45%;
+    transform:translate(-50%,-50%);
+    font-size:28px;
+    text-align:center;
+    position:absolute;
+    width:60%;
+    height:70%;
+}
+.hov4 >p{
+    position:absolute;
+    transform:translate(-50%);
+    color:white;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top:55%;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-size:28px;
+    left:45%;
+background-color: black;
+}
+.hov5{
+    top:35%;
+    left:45%;
+    transform:translate(-50%,-50%);
+    font-size:28px;
+    text-align:center;
+    position:absolute;
+    width:60%;
+    height:70%;
+}
+.hov5 >p{
+    position:absolute;
+    transform:translate(-50%);
+    color:white;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top:55%;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-size:28px;
+    left:45%;
+background-color: black;
+}
+.hov6{
+    top:35%;
+    left:45%;
+    transform:translate(-50%,-50%);
+    font-size:28px;
+    text-align:center;
+    position:absolute;
+    width:60%;
+    height:70%;
+}
+.hov6 >p{
+    position:absolute;
+    transform:translate(-50%);
+    color:white;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top:55%;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-size:28px;
+    left:45%;
+background-color: black;
+}
+.hov7{
+    top:35%;
+    left:45%;
+    transform:translate(-50%,-50%);
+    font-size:28px;
+    text-align:center;
+    position:absolute;
+    width:60%;
+    height:70%;
+}
+.hov7 >p{
+    position:absolute;
+    transform:translate(-50%);
+    color:white;
+    width:100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    top:55%;
+    text-align:center;
+    padding:0;
+    margin:0;
+    font-size:28px;
+    left:45%;
+background-color: black;
+}
+::placeholder{
+    color:whitesmoke;
 }
