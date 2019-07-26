@@ -251,7 +251,7 @@ background-color: black;
     transform:translate(-50%);
     color:white;
     width:100%;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     top:55%;
     text-align:center;
     padding:0;
@@ -283,6 +283,9 @@ background-color: black;
     font-size:28px;
     left:45%;
 background-color: black;
+}
+form#iud ::placeholder{
+    color:white;
 }
 ::placeholder{
     color:white;
