@@ -294,7 +294,7 @@ form#iud ::placeholder{
 }
 .col-md-12{
     position:relative;
-    right:180px;
+    right:85px;
 }
 #name{
     position:relative;
@@ -304,3 +304,49 @@ form#iud ::placeholder{
     position:relative;
     width:370px;
 }
+@media screen and (max-width: 700px) {
+    .main-project{
+      display: flex;
+      flex-direction: column;
+    }
+    #name{
+    width:300px;
+    right:100px;
+    }
+    #email{
+        width:300px;
+        right:100px; 
+    }
+    #message{
+        width:300px;
+        right:100px; 
+    }
+    .container{
+        overflow: hidden;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .container{
+        overflow: hidden;
+    } 
+  }
+  @media screen and (max-width: 400px) {
+    .container{
+        overflow: hidden;
+    } 
+  }
+  @media screen and (max-width: 300px) {
+    .container{
+        overflow: hidden;
+    } 
+  }
+  @media screen and (max-width: 200px) {
+    .container{
+        overflow: hidden;
+    } 
+  }
+  @media screen and (max-width: 100px) {
+    .container{
+        overflow: hidden;
+    } 
+  }
