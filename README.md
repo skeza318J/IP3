@@ -10,7 +10,7 @@
   Email address:samanthakeza2000@gmail.com
   tel:+250787832038
 ## Active link to my website
-- [https://skeza318j.github.io/IP3/ ]
+- [https://skeza318j.github.io/IP3/]
 ### License
 - Copyright (c) {2019} **{Keza Samantha}**
   
